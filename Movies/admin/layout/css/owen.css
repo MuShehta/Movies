@@ -1,0 +1,26 @@
+/* start main changes */
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+/* start index changes */
+.index-margin {
+    margin: 10px;
+}
+.index-item {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    color: #FFF;
+    padding: 65px 0 0 0;
+    text-decoration: none;
+}
+
+.index-margin a{
+    text-decoration: none;
+}
+.index-item p {
+    font-size: 20px;
+}
